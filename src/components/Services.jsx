@@ -8,7 +8,7 @@ const SERVICES = [
     iconColor: 'text-brand-gold-dark',
     title: 'International Trading',
     desc: 'We source high-quality products from trusted global manufacturers and deliver them securely to Saudi Arabia and international markets.',
-    image: 'https://images.unsplash.com/photo-1494412574643-ff11b0a5eb19?w=600&q=80',
+    image: 'https://academy.iccwbo.org/wp-content/uploads/2024/11/International_Trade_Overview-2.jpg',
   },
   {
     icon: 'solar:hand-shake-linear',
